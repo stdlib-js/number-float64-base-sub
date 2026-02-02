@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-sub@esm/index.mjs';
+import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-sub@v0.1.1-esm/index.mjs';
 ```
 
 #### sub( x, y )
@@ -103,7 +103,7 @@ v = sub( NaN, NaN );
 <script type="module">
 
 import rand from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
-import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-sub@esm/index.mjs';
+import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-sub@v0.1.1-esm/index.mjs';
 
 var x;
 var y;
